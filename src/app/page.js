@@ -54,7 +54,7 @@ export default function Home() {
 
             <div className="text-center">
               <span className="txt1">Possui uma conta? </span>
-              <a className="txt2" href="#">
+              <a className="txt2" href="tela-de-login-react-one.vercel.app">
                 Logar
               </a>
             </div>
