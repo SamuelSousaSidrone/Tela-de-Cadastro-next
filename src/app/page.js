@@ -14,7 +14,7 @@ export default function Home() {
       <div className="container-login">
         <div className="wrap-login">
           <form className="login-form">
-            <span className="login-form-title"> Bem vindo a tela de login </span>
+            <span className="login-form-title"> Bem vindo a tela de Cadastro </span>
 
             
 
